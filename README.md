@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="left" alt="Puhalenthi's Github Stats" src="https://github-stats-git-main-puhalenthi-ramesh-vidhyas-projects.vercel.app/api?username=Puhalenthi&show_icons=true&hide_border=true&theme=shadow_green" />
+<img align="left" alt="Puhalenthi's Github Stats" src="https://github-stats-git-main-puhalenthi-ramesh-vidhyas-projects.vercel.app/api?username=Puhalenthi&show_icons=true&hide_border=true&theme=chartreuse-dark" />
 <!--
 **Puhalenthi/Puhalenthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
